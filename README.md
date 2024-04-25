@@ -33,7 +33,23 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=swift,html,css,vscode,github,notion" /><br>
    <img src="https://skillicons.dev/icons?i=figma,react,git,python,javascript,c,java" /><br>
+    <hr/>
 </div>
+<h2 align="center">🗿 Github Stats 🗿</h2>
+
+![](https://github-readme-stats.vercel.app/api?username=animazouk&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=animazouk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=animazouk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<hr/>
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+![](https://github-profile-trophy.vercel.app/?username=animazouk&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+<hr/>
+<h2 align="center">✍️ Random Dev Quote</h2>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <hr/>
 
