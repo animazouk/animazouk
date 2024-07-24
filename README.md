@@ -13,7 +13,7 @@
 
  🔭 I’m currently persuing **BCA** from PSIT.
 
- 🌱 I’m currently learning **iOS development**
+ 🌱 I’m currently learning **JAVA ADVANCE**
  </div>
 
  <hr/>
