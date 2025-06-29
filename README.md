@@ -21,10 +21,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=swift,html,css,vscode,github,notion,mongodb,express" /><br>
-   <img src="https://skillicons.dev/icons?i=figma,react,git,python,javascript,bash,c,java" /><br>
-    
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,git,github,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,docker,postman,vscode,gradle,maven" /><br>
 </div>
+
 <hr/>
 <h2 align="center">🗿 Github Stats 🗿</h2>
 <br/>
@@ -51,6 +51,10 @@
   <a href="https://www.linkedin.com/in/adarsh-vishwakarma-71bb2a287/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <a href="https://x.com/adarsh4553" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
 
   </a>
 </div>
